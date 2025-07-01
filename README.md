@@ -1,0 +1,1 @@
+Created a model predictor trained on a decent dataset named hamlet.txt trained it just for checking working of lstm with 50 epochs and accuracy  40% as of now could train more epochs for better accuracy 
